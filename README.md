@@ -1,12 +1,12 @@
  ### Hey , it's me Subash Shrestha 
-- 👀 Interested in building my apps of imagination and share knowledge using different platforms
-- 🌱 Currently learning flutter but I have expertise in Typescript and different JS frameworks.
-        
-   
-   
-   
+- 👀 A JS enthusiast, a full stack engineer and a digital content creator
 
-<!---
-arconsis-subash/arconsis-subash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Of course, this is not the only git repo that I use. As per the requirement , I use different repos. You can find my other works in gitlab too @subashshrt and @amanshrt.
+
+You can visit me  on : http://hungrymind.info
+
+You can contact me through : amanshrt9841@gmail.com
+
+You can support me at : https://www.buymeacoffee.com/hungrymind
+
+You can visit my youtube : https://youtube.com/c/hungrymind
